@@ -1,0 +1,46 @@
+.container {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+footer .container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+footer {
+    background-color: #25282a;
+    text-align: center;
+    color: #6c757d;
+    padding: 100px;
+}
+footer a {
+    color: #ffffff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.comments-section {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.comment {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.comment p {
+    margin-bottom: 5px;
+}
+
+.comment .btn {
+    font-size: 0.8rem;
+}
